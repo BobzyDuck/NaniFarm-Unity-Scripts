@@ -1,2 +1,3 @@
-# NaniFarm-Unity-Scripts
-🌱 Unity C# scripts used in the NaniFarm tutorial series 🎮
+<p align="center">
+  <img src=" images/Unity-Scripts.jpg" alt="Nani Farm – Unity ProBuilder Environment Design">
+</p>
